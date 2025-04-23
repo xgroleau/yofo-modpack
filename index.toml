@@ -1,20 +1,19 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "a0ee8a9001eb89ae2341a21a720411525772fddea5011e9e5c3feaedee0e2957"
+
+[[files]]
 file = "README.md"
 hash = "035b7df0ae70dc66297e3b909a514780bb61307c908a0af6589738964b379d4e"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a8800671ba62afc0a0a2bcbf4330ba7a5906f5fba7ec88b6d5afac2572ecd617"
+hash = "b32e44b08919d3c15ecd715e4ab585c3cc8d8d42cec81403f961dca3b51424b6"
 metafile = true
 
 [[files]]
-file = "mods/geckolib.pw.toml"
-hash = "d5d726aacfb80dbe7cc8da290ea3d9557d4fcb5dfa2078d69ac276cdeff485b2"
-metafile = true
-
-[[files]]
-file = "mods/vics-point-blank.pw.toml"
-hash = "78742c5d72567777f1de3ccf133325f6aacb1bed83ee5bc625211b7da1fae8cc"
+file = "mods/pixelmon.pw.toml"
+hash = "26c81638f16049f3330eca55396575ca05a0c464e2f1468d69dc74d7faa8135d"
 metafile = true
