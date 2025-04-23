@@ -1,13 +1,13 @@
 name = "Yofo"
 author = "xgroleau"
-version = "1.0.3"
+version = "1.0.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c9c2245f8f88fbf866703fdb82712af582e8830c8649c2e25ef1b0cdd9aeaf1f"
+hash = "f1e3e8d248e743c82837ff9597d2c7120ac4f86513760ca8bc1088a33e79541e"
 
 [versions]
 fabric = "0.16.5"
-minecraft = "1.20.1"
+minecraft = "1.20.2"
