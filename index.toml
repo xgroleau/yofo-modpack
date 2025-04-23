@@ -9,11 +9,6 @@ file = "README.md"
 hash = "035b7df0ae70dc66297e3b909a514780bb61307c908a0af6589738964b379d4e"
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "1dea1472741762757eed29f76877f5913b0e445aa5e91a43ec9dcab63149e190"
-metafile = true
-
-[[files]]
 file = "mods/pixelmon.pw.toml"
 hash = "26c81638f16049f3330eca55396575ca05a0c464e2f1468d69dc74d7faa8135d"
 metafile = true
